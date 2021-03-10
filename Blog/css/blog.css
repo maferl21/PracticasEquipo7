@@ -1,0 +1,29 @@
+#blog h3, h4{
+  text-align: center;
+}
+#blog .contenedor{
+  display: flex;
+  justify-content: center;
+  flex-wrap:nowrap;
+}
+
+#blog article{
+  margin: 15px;
+}
+
+#blog img{
+  width: 100%;
+  height: 80%;
+  max-width: 280px;
+  max-height: 280px;
+}
+#blog audio{
+  width: 100%;
+  height: 10%;
+  max-width: 280px;
+}
+#blog video{
+  width: 100%;
+  height: 10%;
+  max-width: 280px;
+}
